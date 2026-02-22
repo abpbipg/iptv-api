@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-02-22 18:22:47,http://23.237.228.134/live5/CCTV2.m3u8
+2026-02-23 06:21:16,http://23.237.228.134/live5/CCTV2.m3u8
 
 📺央视频道,#genre#
 CCTV-2,http://23.237.228.134/live5/CCTV2.m3u8
@@ -37,10 +37,10 @@ CCTV-7,http://23.237.228.134/live5/CCTV7.m3u8
 🌊港·澳·台,#genre#
 
 🎬电影频道,#genre#
-天映经典,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/1165791
 
 🏀体育频道,#genre#
 
 🪁动画频道,#genre#
+金鹰卡通,http://125.42.150.177:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
 
 🏛经典剧场,#genre#
